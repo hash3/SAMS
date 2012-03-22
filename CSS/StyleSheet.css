@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background: #ddd;
+}
+body {
+	margin: 1em 10%;
+	padding: 1em 3em;
+	font: 80%/1.4 tahoma, arial, helvetica, lucida sans, sans-serif;
+	border: 1px solid #999;
+	background: #eee;
+	position: relative;
+}
+a {
+	color: #024378;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #04569A;
+	text-decoration: underline;
+}
+#wrapper {
+	width: 500px;
+	margin: auto; 
+}
